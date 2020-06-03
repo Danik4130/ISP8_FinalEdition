@@ -1,0 +1,7 @@
+C:\Users\mikha\source\repos\ISP8_FinalEdition\ISP8_FinalEdition\bin\Debug\ISP8_FinalEdition.exe.config
+C:\Users\mikha\source\repos\ISP8_FinalEdition\ISP8_FinalEdition\bin\Debug\ISP8_FinalEdition.exe
+C:\Users\mikha\source\repos\ISP8_FinalEdition\ISP8_FinalEdition\bin\Debug\ISP8_FinalEdition.pdb
+C:\Users\mikha\source\repos\ISP8_FinalEdition\ISP8_FinalEdition\obj\Debug\ISP8_FinalEdition.csprojAssemblyReference.cache
+C:\Users\mikha\source\repos\ISP8_FinalEdition\ISP8_FinalEdition\obj\Debug\ISP8_FinalEdition.csproj.CoreCompileInputs.cache
+C:\Users\mikha\source\repos\ISP8_FinalEdition\ISP8_FinalEdition\obj\Debug\ISP8_FinalEdition.exe
+C:\Users\mikha\source\repos\ISP8_FinalEdition\ISP8_FinalEdition\obj\Debug\ISP8_FinalEdition.pdb
